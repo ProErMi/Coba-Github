@@ -7,6 +7,7 @@ RENCANA RAMADHAN DI TAHUN 2026
   > TailwindCSS Project
   > Reaact JS
 - SIDE QUEST (opsional)
+  > Membaca Al-Qur'an sampai juz 30
   > Membeli game
   > membeli peripheral (gamepad) 
 ===============================
