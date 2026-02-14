@@ -1,0 +1,9 @@
+RENCANA RAMADHAN DI TAHUN 2026
+===============================
+- Belajar untuk persiapan ujian tulis
+- Belajar UTBK (nyicil)
+- Belajar Pemrograman / ngoding
+  > Godot (membuat game 2d)
+  > TailwindCSS Project
+  > Reaact JS
+===============================
