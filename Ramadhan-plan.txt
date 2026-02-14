@@ -6,4 +6,7 @@ RENCANA RAMADHAN DI TAHUN 2026
   > Godot (membuat game 2d)
   > TailwindCSS Project
   > Reaact JS
+- SIDE QUEST (opsional)
+  > Membeli game
+  > membeli peripheral (gamepad) 
 ===============================
